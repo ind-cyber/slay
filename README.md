@@ -1,7 +1,7 @@
 # DESCRIPCIÓN DEL GRUPO
 Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de Innovación en Bioingeniería", buscamos identificar y abordar desafíos en la atención de personas con condiciones médicas, mediante el diseño e implementación de soluciones innovadoras. A través de un enfoque multidisciplinario, tenemos como objetivo mejorar la calidad de vida de los pacientes y contribuir al avance de la Ingeniería Biomédica en nuestro país, ofreciendo soluciones que respondan a necesidades específicas en el ámbito de la salud.
 # INTEGRANTES DEL GRUPO
-
+![Foto grupal]
 # DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO
 **1. Samantha Anhelis Vilchez Tapullima**
 
