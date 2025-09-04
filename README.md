@@ -43,6 +43,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de In
 **Pasatiempos:** Jugar roblox, escuchar música y bailar.
 
 **4. Indira Segura Baldoceda**
+
 ![Foto Indira]
 
 **Edad:** 20 años
