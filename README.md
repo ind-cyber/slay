@@ -17,6 +17,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de In
 **Pasatiempos:** Escuchar música, ver series extensas, estudiar idiomas, brainroot, y dibujar.
 
 **2. Camila Ramírez Espinoza**
+
 ![Foto Camila](https://github.com/ind-cyber/slay/blob/main/Imagenes/WhatsApp%20Image%202025-08-30%20at%2012.02.39%20PM.jpeg)
 
 **Edad:** 17 años
