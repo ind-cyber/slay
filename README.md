@@ -40,7 +40,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de In
 **Pasatiempos:** Jugar roblox, escuchar música y bailar.
 
 **4. Andrea Alexandra López Tiburcio**
-![Foto Andrea]
+![Foto Andrea](https://github.com/ind-cyber/slay/blob/main/Imagenes/WhatsApp%20Image%202025-08-30%20at%201.23.15%20PM.jpeg)
 
 **Edad:** 17 años
 
