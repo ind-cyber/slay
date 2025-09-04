@@ -6,7 +6,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de In
 
 # DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO
 **1. Samantha Anhelis Vilchez Tapullima**
-
+![Foto Samantha](https://github.com/ind-cyber/slay/blob/main/Imagenes/WhatsApp%20Image%202025-08-30%20at%2012.14.35%20PM.jpeg)
 **Edad:** 17 años
 
 **Intereses:** La física, química, el campo de tejidos y biomateriales, el dibujo realista.
