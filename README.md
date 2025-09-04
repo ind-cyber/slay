@@ -29,7 +29,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de In
 **Pasatiempos:** Escribir ensayos y poemas, tocar guitarra y piano, asistir a debates, visitar museos, escuchar podcasts sobre política y cultura, y pintar en acuarela.
 
 **3. Gabriela Estefanía Neyra Quezada** 
-![Foto Gabriela]
+![Foto Gabriela](https://github.com/ind-cyber/slay/blob/main/Imagenes/WhatsApp%20Image%202025-08-30%20at%2012.40.28%20PM.jpeg)
 
 **Edad:** 17 años
 
