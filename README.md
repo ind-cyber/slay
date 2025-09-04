@@ -44,7 +44,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de In
 
 **4. Indira Segura Baldoceda**
 
-![Foto Indira]
+![Foto Indira](https://github.com/ind-cyber/slay/blob/main/Imagenes/WhatsApp%20Image%202025-08-30%20at%201.15.20%20PM.jpg)
 
 **Edad:** 20 años
 
