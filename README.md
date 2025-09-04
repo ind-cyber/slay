@@ -7,6 +7,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de In
 # DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO
 **1. Samantha Anhelis Vilchez Tapullima**
 ![Foto Samantha](https://github.com/ind-cyber/slay/blob/main/Imagenes/WhatsApp%20Image%202025-08-30%20at%2012.14.35%20PM.jpeg)
+
 **Edad:** 17 años
 
 **Intereses:** La física, química, el campo de tejidos y biomateriales, el dibujo realista.
@@ -16,6 +17,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de In
 **Pasatiempos:** Escuchar música, ver series extensas, estudiar idiomas, brainroot, y dibujar.
 
 **2. Camila Ramírez Espinoza**
+![Foto Camila]
 
 **Edad:** 17 años
 
@@ -26,6 +28,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de In
 **Pasatiempos:** Escribir ensayos y poemas, tocar guitarra y piano, asistir a debates, visitar museos, escuchar podcasts sobre política y cultura, y pintar en acuarela.
 
 **3. Gabriela Estefanía Neyra Quezada** 
+![Foto Gabriela]
 
 **Edad:** 17 años
 
@@ -36,6 +39,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de In
 **Pasatiempos:** Jugar roblox, escuchar música y bailar.
 
 **4. Andrea Alexandra López Tiburcio**
+![Foto Andrea]
 
 **Edad:** 17 años
 
