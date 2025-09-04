@@ -42,7 +42,18 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH del curso de "Procesos de In
 
 **Pasatiempos:** Jugar roblox, escuchar música y bailar.
 
-**4. Andrea Alexandra López Tiburcio**
+**4. Indira Segura Baldoceda**
+![Foto Indira]
+
+**Edad:** 20 años
+
+**Intereses:** Programación, aprender idiomas y la música.
+
+**Habilidades:** Adaptabilidad, resolución de problemas y capacidad de análisis.
+
+**Pasatiempos:** Leer novelas web, preparar postres y escuchar música.
+
+**5. Andrea Alexandra López Tiburcio**
 ![Foto Andrea](https://github.com/ind-cyber/slay/blob/main/Imagenes/WhatsApp%20Image%202025-08-30%20at%201.23.15%20PM.jpeg)
 
 **Edad:** 17 años
